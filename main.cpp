@@ -1,7 +1,7 @@
 /*
 Matthew Walls
 COSC 1436 57001
-This is a program for unit 6 part 3 to demonstrate the sort algorithm in ascending order*/
+This is a program for unit 6 part 4 to demonstrate the sort algorithm in descending order*/
 #include <iostream>
 #include <fstream>
 #include <iomanip>
